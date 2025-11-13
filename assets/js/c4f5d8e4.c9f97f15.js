@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkcliqqing_docs=globalThis.webpackChunkcliqqing_docs||[]).push([[634],{192:(c,i,s)=>{s.r(i),s.d(i,{default:()=>l});var n=s(6347),o=s(4848);function l(){return(0,o.jsx)(n.rd,{to:"docs/intro"})}}}]);
